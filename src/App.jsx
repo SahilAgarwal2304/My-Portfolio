@@ -493,7 +493,7 @@ const App = () => {
             
             <div className="card">
               <form action="https://api.web3forms.com/submit" method="POST" className="contact-form">
-                <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE" />
+                <input type="hidden" name="access_key" value="93c6fca5-6221-44b2-bcfa-303b39971bad" />
                 <input type="text" name="name" className="contact-input" placeholder="Your Name" required />
                 <input type="email" name="email" className="contact-input" placeholder="Your Email" required />
                 <textarea name="message" className="contact-input" placeholder="Your Message" rows="5" required></textarea>
